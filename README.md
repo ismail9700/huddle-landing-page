@@ -1,6 +1,5 @@
 # Huddle Landing Page
 
-## Description
 Huddle Landing Page is a responsive, modern landing page for the Huddle community platform. Built with HTML, CSS, and JavaScript, it features a clean design to engage users and promote community interaction.
 
 ## Demo
