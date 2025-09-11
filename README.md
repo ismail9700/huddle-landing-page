@@ -35,9 +35,9 @@ Huddle Landing Page is a responsive, modern landing page for the Huddle communit
 - Customize the HTML/CSS/JavaScript files to adapt the design or content as needed.
 
 ## Technologies
-- **HTML**: 28.1%
-- **CSS**: 68.7%
-- **JavaScript**: 3.2%
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ## Contributing
 1. Fork the repository.
