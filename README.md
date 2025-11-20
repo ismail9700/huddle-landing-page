@@ -1,7 +1,3 @@
-# Huddle Landing Page
-
-Huddle Landing Page is a responsive, modern landing page for the Huddle community platform. Built with HTML, CSS, and JavaScript, it features a clean design to engage users and promote community interaction.
-
 ## Demo
 [**View Live Demo**](https://ismail-huddle.netlify.app/)
 
